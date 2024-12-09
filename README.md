@@ -132,7 +132,7 @@ bashCopy├── accounts/          # 사용자 계정 관리
 
 ### 지도
 
-![지도구현 (2) (1)](https://github.com/user-attachments/assets/2700d61c-a8c4-43f1-9572-625fe839d01b)
+https://github.com/user-attachments/assets/65a64fb0-990e-4cbc-8ade-ad3b9df686f7
 
 - 한국에 있는 은행들을 검색 할 수 있는 지도를 구현하였습니다
 - API는 KAKAO MAP API를 사용하였습니다
