@@ -1,0 +1,34 @@
+{
+  "name": "slow_starter_project",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vue/runtime-core": "^3.5.13",
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "axios": "^1.7.8",
+    "dotenv": "^16.4.5",
+    "echarts": "^5.4.3",
+    "pinia": "^2.2.6",
+    "pinia-plugin-persistedstate": "^4.1.3",
+    "sweetalert": "^2.1.2",
+    "verify": "^0.1.2",
+    "vue": "^3.5.13",
+    "vue-echarts": "^6.6.1",
+    "vue-router": "^4.4.5",
+    "vuelidate": "^0.7.7",
+    "vuetify": "^3.7.0-beta.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.10",
+    "vite-plugin-vue-devtools": "^7.5.4"
+  }
+}
