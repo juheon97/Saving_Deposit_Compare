@@ -1,4 +1,5 @@
-![logo](/uploads/7228566721541314e7251348ae568a19/logo.png)
+<img width="578" alt="logo" src="https://github.com/user-attachments/assets/cb0d4274-4f56-44bf-b463-dde25fe13632">
+
 
 ## 📑 프로젝트 주제 및 기간
 
@@ -31,7 +32,7 @@
 
 ## 🎋 ERD
 
-![ERD](/uploads/739706989c6fb164bd281029b106fe2f/ERD.PNG)
+![ERD](https://github.com/user-attachments/assets/fc0bde7d-3b52-4878-8703-098d25ad757b)
 
 ## 🛍️ 프로젝트 폴더 구조
 
@@ -70,28 +71,29 @@ bashCopy├── accounts/          # 사용자 계정 관리
 
 ### 환율 계산기
 
-![환율계산](/uploads/231c8d8f13cc454f2023e9fd4fb921e8/환율계산.gif)
+![환율계산](https://github.com/user-attachments/assets/dc30b73e-7238-4533-8c1b-30f69301eba9)
 
 - 나라별로 계산하기 버튼이 있습니다
 - 전체 나라 보기 후 나라들을 선택하여 계산 할 수 있습니다.
 
 ### 프로필 부분
 
-![프로필이미지변경](/uploads/6a4e7776eb015f2ac8a8997dea5be4ad/프로필이미지변경.gif)
+![프로필이미지변경](https://github.com/user-attachments/assets/74148626-5efb-40d6-bbeb-153ef045d092)
 
 - 로컬 컴퓨터에서 파일을 선택 하면 프로필 이미지가 변경됩니다.
 
-![정보수정](/uploads/4150f6def6284afbc65a4413fee3782d/정보수정.gif)
+![정보수정](https://github.com/user-attachments/assets/90623884-7f8e-4d87-b8f3-f0ee62fd7e5a)
+
 - 유저의 정보 및 적금 예금 수를 수정 할 수 있습니다.
 - 적금 예금의 금액은 입력칸 및에 적힌 금액만큼 수정 할 수 있습니다
 
-![적예금계산](/uploads/675d2e3bec4635b9f3aa7c5fb0a302e4/적예금계산.gif)
+![적예금계산](https://github.com/user-attachments/assets/fc07fe57-b621-4372-aa9f-e625dc84a540)
 
 - 유저가 담은 상품 리스트의 상세 페이지를 볼 수 있습니다
 - 상세보기에서는 우대 및 기본 금리가 적혀있습니다
 - 아래 달리기 버튼을 누르면 해당 상품 금리를 유저가 적은 적금 예금 수치에 맞게 계산해줍니다.
 
-![비밀번호변경2](/uploads/4bec862a5c31f1f3d879a7e4418ba90f/비밀번호변경2.gif)
+![비밀번호변경2](https://github.com/user-attachments/assets/9b4eb8e7-a139-448f-b618-8ec18643b64b)
 
 - 유저가 비밀번호를 수정 할 수 있습니다.
 - 현재 비밀 번호, 변경된 비밀 번호가 틀릴 시 상황에 맞는 에러메시지가 나옵니다.
@@ -99,7 +101,7 @@ bashCopy├── accounts/          # 사용자 계정 관리
 
 ### 조회
 
-![조회_로그인_비로그인_차이](/uploads/39a903e6dbf6fe3cf358fb82f172a20c/조회_로그인_비로그인_차이.gif)
+![조회_로그인_비로그인_차이](https://github.com/user-attachments/assets/f0f57cc8-863b-4e29-b82b-a2c2c5fecab5)
 
 - 조회 페이지엔 전체, 적금, 예금 상품을 필터하여 찾아 볼 수 있습니다
 - 또한 가입 방법 필터가 있습니다
@@ -108,21 +110,21 @@ bashCopy├── accounts/          # 사용자 계정 관리
 
 ### 추천 알고리즘
 
-![추천알고리즘](/uploads/cfdc8ecb788e183b592f7598be4613fb/추천알고리즘.gif)
+![추천알고리즘](https://github.com/user-attachments/assets/726a4a42-7e6e-4ed0-8357-120abd494cb2)
 
 - 각 유저별 나이를 베이스로 가장 많이 선택된 상품 top 3가 나옵니다
 - 하단에 각 유저별 나이를 베이스로 각 상품의 카운트 된 횟 수가 나옵니다.
 
 ### 챗봇 
 
-![챗봇](/uploads/c4ca2b6233633998ba5b6238feba0e1b/챗봇.gif)
+![챗봇](https://github.com/user-attachments/assets/9a7a4812-fcca-46c7-8d80-68e87a4a3717)
 
 - 챗봇 기능을 구현하였습니다.
 - 유저가 챗봇을 통해서 다양한 정보를 물어볼 수 잇습니다.
 
 ### 커뮤니티
 
-![커뮤니티](/uploads/e6388a6504cdbc3fae7f89d85f372735/커뮤니티.gif)
+![커뮤니티](https://github.com/user-attachments/assets/dd8c72da-b28d-42ad-9719-92b69aee3cd1)
 
 - 유저들이 직접 게시글을 등록할 수 있습니다.
 - 기본적인 CRUD 기능을 구현하였습니다
@@ -130,7 +132,7 @@ bashCopy├── accounts/          # 사용자 계정 관리
 
 ### 지도
 
-![지도구현](/uploads/faa2df1d6487fec6d1e77e9afce7afb6/지도구현.gif)
+![지도구현 (2) (1)](https://github.com/user-attachments/assets/2700d61c-a8c4-43f1-9572-625fe839d01b)
 
 - 한국에 있는 은행들을 검색 할 수 있는 지도를 구현하였습니다
 - API는 KAKAO MAP API를 사용하였습니다
@@ -138,7 +140,7 @@ bashCopy├── accounts/          # 사용자 계정 관리
 
 ### 비밀번호 찾기
 
-![비밀번호찾기](/uploads/79970be5f4aea06f4564594679f630f2/비밀번호찾기.gif)
+![비밀번호찾기](https://github.com/user-attachments/assets/4588c3e7-d42d-4138-9272-a76d1d9b5106)
 
 - 유저의 아이디와 이메일을 사용하여 임시 비밀 번호를 부여해줍니다.
 - 아이디는 중복해서 생성 할 수 없게하여 기능을 구현하였습니다.
